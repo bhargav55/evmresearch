@@ -5,7 +5,7 @@ EVM security knowledge graph distilled from [evmresearch.io](https://evmresearch
 ## Install
 
 ```bash
-npx skills add bhargavkacharla/evmresearch
+npx skills add bhargav55/evmresearch
 ```
 
 ## What it covers

@@ -2,7 +2,7 @@
 name: evmresearch
 description: "EVM security knowledge graph with 300+ vulnerability patterns, exploit analyses, security defenses, and protocol mechanics distilled from evmresearch.io. Use when writing, reviewing, or auditing Solidity smart contracts. Covers reentrancy, access control, oracle manipulation, proxy upgrades, token standards, MEV, bridges, L2 rollups, lending, governance, and cryptographic vulnerabilities with real-world exploit case studies and dollar amounts."
 metadata:
-  author: bhargavkacharla
+  author: bhargav55
   version: "1.0"
   source: evmresearch.io
 ---
